@@ -9,12 +9,12 @@ To run locally on your machine, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/U-Shashank/Task-Text-Analyer.git
+   git clone https://github.com/U-Shashank/Task-Text-Analyzer.git
    ```
 
 2. **Navigate to Project Directory**
    ```bash
-   cd Task-Task-Analyer
+   cd Task-Task-Analyzer
    ```
 
 3. **Install Dependencies**
